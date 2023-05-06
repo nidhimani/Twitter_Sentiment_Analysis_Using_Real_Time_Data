@@ -1,5 +1,6 @@
 # Twitter_Sentiment_Analysis
-By using snscrape scrapped tweets from BarackObama twitter account and created a dataframe with the tweets.
+By using snscrape tweets are from BarackObama twitter account and created a dataframe with the tweets.
+
 Cleaned the tweets from punctuation marks, multiple white spaces, numbers, alpha-numeric terms, hashtags, mentions etc
 Emojis are replaced with text by using emoji package. Also, emoticons are replaced with text.
 TreebankWordTokenizer and WordNetLemmatizer to tokenize and then lemmatize the words.
